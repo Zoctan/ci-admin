@@ -2,7 +2,7 @@
 <html>
 
 <head>
-    <title>CodeIgniter Tutorial</title>
+    <title>CodeIgniter Admin</title>
 </head>
 
 <body>
